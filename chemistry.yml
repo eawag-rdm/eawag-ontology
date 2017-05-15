@@ -1,0 +1,122 @@
+Measurable quantities:
+  -
+    name: Physical parameters
+    values: values
+  -   
+    name: Chemical parameters
+    values:
+      -
+        name: total hardness
+        note: (Ca2+ + Mg2+)
+      -
+        name: alkalinity
+        notes: (H+ eq)
+        name: nitrogen sources
+        values:
+          -
+            name: Nitrate
+            synonyms: [NO3-]
+          -
+            name: Ammonium
+            synonyms: [NH4+]
+              
+          -
+            name: Nitrite
+          -
+            name: Total Nitrogen
+            notes:
+        -
+          name: Major Ions
+          values:
+            -
+              name: Calcium
+              synonyms: [Ca2+]
+            -
+              name: Magnesium
+              synonyms: [Mg2+]
+            -
+              name: Sodium
+              synonyms: [Na+]
+            -
+              name: Potassium
+              synonyms: [K+]
+            -
+              name: Bicarbonate
+              synonyms: [HCO3-]
+            -
+              name: Carbonate
+              synonyms: [CO32-]
+
+        -
+          name: Pesticides
+        -
+          name: Chlorinated biphenyl congeners
+        -
+          name: Pharmaceuticals
+        -
+          name: Organohalogen compounds
+        -
+          name: Perfluorocarbon compounds
+        -
+          name: Organics
+        -
+          
+            
+          
+              
+                
+            
+            
+              
+      -
+        name: phosphous sources
+        values:
+          -
+            name: total phosphorus
+          -
+            name: dissolved reactive P
+          -
+            name: ortho-phosphate
+      -
+        name: carbon sources
+        values:
+          -
+            name: organic carbon
+          -
+            name: dissolved organic carbon
+            notes: DOC
+      -
+        name: metals
+      
+        
+            
+      -
+        name: pesticides
+        values: v
+      -
+        name: major ions
+        values: v
+      -
+        name:  
+  -
+    name: electrical parameters
+    values:
+      -
+        name: electric conductivity
+  -
+    name: 
+    
+    nanoparticles
+    
+
+water chemistry:
+  - nitrogen sources:
+      -
+  - phosphorus sources:
+      -
+  - major ions:
+      -
+  - micropollutants:
+      -
+
+physical
