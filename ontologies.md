@@ -29,5 +29,5 @@
 
 + [The OBO Foundry](http://www.obofoundry.org/)
 
-+[Earth Science Ontology Portal (ESIP)](http://semanticportal.esipfed.org/)
++ [Earth Science Ontology Portal (ESIP)](http://semanticportal.esipfed.org/)
 
