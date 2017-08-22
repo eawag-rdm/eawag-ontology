@@ -16,7 +16,7 @@
 
 + [SWEET](https://sweet.jpl.nasa.gov/)
 
-+ [EUROVOC](http://eurovoc.europa.eu/drupal/(
++ [EUROVOC](http://eurovoc.europa.eu/drupal/)
 
 + [GEMET](http://www.eionet.europa.eu/gemet/en/themes/)
 
